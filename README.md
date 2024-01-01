@@ -1,2 +1,2 @@
 # GiniAlgorithm
-Veri Madenciliği ödevi için Unity ile hazırlanmış uygulama
+Veri Madenciliği ödevi için kansızlık tanısı koyan Gini uygulaması.Unity ile hazırlanmıştır.
